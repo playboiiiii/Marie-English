@@ -20,9 +20,10 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hey {} ! My name is {} - I'm here to help you manage your groups!... Click /Help  to find out more about how to use me to my full potential.
 
-Made with love by [this guy](tg://user?id={}).
+Made with love by [this guy](https://t.me/unknown_hacker_005_x).
 
-My future updates will be put into This Group - @CuratorCrew
+But Now Managing By [my master](https://t.me/indian_xd) 
+My future updates will be put into This Group - @Zonerschat
 
 I'm built in python3, using the python-telegram-bot library.
 
@@ -45,14 +46,16 @@ Hello! my name *{}*.
  - /settings:
    - in PM: To find out what SETTINGS you have set....
    - in a group:
-
+ - /ukh005x About Developer
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/TheDarkW3b) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](t.me/unknown_hacker_005_x) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS """ 
+UKH005X_STRING = "Hey! This Is My Creator. I Would Never Do Against Him. He's My Developer Inspired By @TheDarkW3B 
+
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
